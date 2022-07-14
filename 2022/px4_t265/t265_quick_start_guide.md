@@ -2,7 +2,7 @@
 
 <font color=#FF0 size=6> 请控制组成员先阅读[Reference Links](t265_refer_links.md) 自行学习</font> 包括official_doc中内容
 
-该文章的中文与部分英文为个人经验总结与提示，部分为资料原文摘抄引用,遇到无法解决的问题时方便快速定位。
+该文章的中文与部分英文为个人经验总结与提示，部分为资料原文摘抄引用，遇到无法解决的问题时方便快速定位。
 
 
 SLAM: Simultaneous Localization and Mapping
