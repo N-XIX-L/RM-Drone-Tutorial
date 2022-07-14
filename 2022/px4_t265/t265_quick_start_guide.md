@@ -338,7 +338,7 @@ source ~/.bashrc
 
 # Camera Pose
 
-![在这插入描述](./img/T265_sensor_extrinsics.png)
+![](../img/T265_sensor_extrinsics.png)
 
 **Here's for VIO.**
 
