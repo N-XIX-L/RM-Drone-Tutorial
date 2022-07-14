@@ -79,9 +79,15 @@ PX4 User/Development Guide & ROS Tutorials in Chinese.
 [HOW T265 V-SLAM ------ VIO Wiki](https://en.wikipedia.org/wiki/Visual_odometry)
 
 
+## Connection Companion Computer with PX4
+[Official](https://dev.px4.io/v1.11_noredirect/en/companion_computer/pixhawk_companion.html)
+[.](https://dev.px4.io/v1.11_noredirect/zh/advanced/parameter_reference.html#MAV_1_MODE)
+[.](http://docs.px4.io/master/zh/advanced_config/parameters.html#missing)
+[.](http://docs.px4.io/master/zh/peripherals/serial_configuration.html)
+
+USE [FTDI](https://www.cnblogs.com/aaronLinux/p/5668414.html) FT232
 
 
-
-# Error
+## Error
 
 [/camera/realsense2_camera_manager: ERROR [139742597756800]](https://github.com/IntelRealSense/realsense-ros/issues/1774)
