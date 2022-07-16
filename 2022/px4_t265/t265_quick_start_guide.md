@@ -422,7 +422,7 @@ roslaunch realsense2_camera demo_t265.launch
 //机载电脑与飞控通信
 roslaunch mavros px4.launch
 ```
-![](img/mavros.jpg)
+![](/2022/img/mavros.jpg)
 在飞控参数设置正确的情况下，此时已经可以将模式切换至position，断开此节点地面站会提示
 >Connection to mission computer lost
 
@@ -431,4 +431,4 @@ roslaunch mavros px4.launch
 ```bash
 roslaunch px4_realsense_bridge bridge_mavros.launch
 ```
-![](img/roslaunch.jpg)
+![](/2022/img/roslaunch.jpg)
